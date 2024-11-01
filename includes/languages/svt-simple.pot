@@ -1,0 +1,118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: svt-simple\n"
+"POT-Creation-Date: 2018-08-14 09:18+0200\n"
+"PO-Revision-Date: 2018-08-12 11:58+0200\n"
+"Last-Translator: Detlef <d.beyer@crash.de>\n"
+"Language-Team: Detlef <d.beyer@crash.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: svt-simple.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-svt-simple-admin.php:121
+msgid "SVT Simple Settings"
+msgstr ""
+
+#: admin/class-svt-simple-admin.php:137 admin/class-svt-simple-admin.php:185
+msgid "Settings"
+msgstr ""
+
+#: admin/class-svt-simple-admin.php:182
+msgid "SVT Simple Shortcode: Please configure your Google Maps API Key"
+msgstr ""
+
+#: admin/class-svt-simple-admin.php:185
+msgid " / <a href=\"options-general.php?page="
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:14
+msgid "No or invalid API key or daily query limit reached!"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:20
+msgid " Options"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:36
+msgid ""
+"You need a valid API key from Google to use the Google panoramas on your "
+"site"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:36
+msgid "Get an API key"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:37
+msgid ""
+"Google will give you some free traffic to use the maps API. Calcuate the "
+"costs with this"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:38
+msgid "Google Pricing Calculator"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:40
+msgid "Your Google Maps JS API Key."
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:42
+msgid "Your Google Maps JS API Key"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:44
+msgid "API Key seems to be OK"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:49
+msgid ""
+"Some theme will not support to load the Google Maps API only on those "
+"posts where you used the shortcode"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:49
+msgid "If the panos do not show up, uncheck this option"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:52
+#: admin/partials/svt-simple-admin-display.php:56
+msgid "Load Maps API only when needed"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:60
+msgid "Save all changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SVT-Simple"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.business-fotos-koeln.de/svt-simple"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The perfect PlugIn to display Google Street View Panos in Wordpress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Detlef Beyer / business-fotos-koeln.de"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.business-fotos-koeln.de/detlef"
+msgstr ""

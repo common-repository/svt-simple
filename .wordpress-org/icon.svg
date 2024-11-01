@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="379px" height="379px" viewBox="0 0 379 379" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>svt_simple</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#EDF9FD" x="0" y="0" width="379" height="379"></rect>
+        <g id="berge" transform="translate(39.000000, 166.000000)" stroke="#186886" stroke-width="12" stroke-linecap="round">
+            <path d="M19.4980469,85.4980469 C19.4980469,83.8326823 33.3326823,60 61.0019531,14 L86.0761876,50.9670762 L109.498047,85.4980469" id="Path-3" stroke-linejoin="round"></path>
+            <polyline id="Path-4" stroke-linejoin="round" points="98 65.5 141.501953 0 202 90"></polyline>
+            <path d="M19,85.5 L0.501953125,85.5" id="Path-5"></path>
+        </g>
+        <path d="M361.31797,254.949182 C362.413146,251.155542 363,247.146304 363,243 L363,218 C363,194.251756 343.748244,175 320,175 L320,175 L279,175 L279,175 C255.251756,175 236,194.251756 236,218 L236,218 L236,243 C236,245.238919 236.171113,247.437872 236.500976,249.584495 C236.500977,270.087599 236.500977,280.142441 236.500977,279.749023 C236.500977,279.456535 249.347115,281.336514 265.066442,283.692292 C269.436167,285.188173 274.123277,286 279,286 L280.417527,286 C301.040282,289.101185 321.260724,292.113702 321.749023,291.749023 C322.751953,291 345.751953,305.25 352.000977,302 C355.110744,300.382668 359.459227,277.715653 361.317969,254.949188 Z" id="Rectangle-2" fill="#F6C71B"></path>
+        <path d="M22.9980469,106.498047 C79.6660156,125.832682 135.166667,135.5 189.5,135.5 C243.833333,135.5 300.166016,125.832682 358.498047,106.498047 L358.498047,303 C296.162109,285.664062 240.245443,277.496745 190.748047,278.498047 C116.501953,280 22.9980469,303 22.9980469,303 C22.9980469,303 22.9980469,237.499349 22.9980469,106.498047 Z" id="Path-2" stroke="#186886" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Oval" fill="#F6C71B" cx="299" cy="109" r="54"></circle>
+        <circle id="Oval-2" stroke="#186886" stroke-width="12" cx="61" cy="159" r="13"></circle>
+    </g>
+</svg>

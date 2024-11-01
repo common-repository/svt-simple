@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: svt-simple\n"
+"POT-Creation-Date: 2018-10-15 14:11+0200\n"
+"PO-Revision-Date: 2018-10-15 14:12+0200\n"
+"Last-Translator: Detlef <d.beyer@crash.de>\n"
+"Language-Team: Detlef <d.beyer@crash.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: svt-simple.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-svt-simple-admin.php:71
+msgid "SVT Simple Settings"
+msgstr "SVT Simple Einstellungen"
+
+#: admin/class-svt-simple-admin.php:87 admin/class-svt-simple-admin.php:139
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-svt-simple-admin.php:136
+msgid "SVT Simple Shortcode: Please configure your Google Maps API Key"
+msgstr ""
+"SVT Simple Shortcode: Bitte trag einen gültigen Google Maps API Key ein"
+
+#: admin/class-svt-simple-admin.php:139
+msgid " / <a href=\"options-general.php?page="
+msgstr ""
+
+#: admin/class-svt-simple-admin.php:188
+msgid "Select your SVT Panorama"
+msgstr "Wähl das SVT Panorama aus"
+
+#: admin/class-svt-simple-admin.php:190
+msgid "Search for an address or manually move to the location on the map"
+msgstr ""
+"Nutze die Suche oder direkt die Karte um die gesuchte Adresse zu finden"
+
+#: admin/class-svt-simple-admin.php:191
+msgid "Drag the pegman"
+msgstr "Zieh den Pegman"
+
+#: admin/class-svt-simple-admin.php:191
+msgid ""
+"onto a blue dot on the map that represents the panorama your are looking for"
+msgstr ""
+"auf den blauen Punkt auf der Karte, der das gesuchte SVT Panorama "
+"repräsentiert"
+
+#: admin/class-svt-simple-admin.php:192
+msgid ""
+"Select the panorama and orientation (you can walk through the tour and "
+"select one of its panoramas looking into the direction you like)"
+msgstr ""
+"Wähle ein Panorama und die Ausrichtung/Drehung (Du kannst durch alle "
+"verbundenen Panos klicken und das gewünschte mit der gewünschten "
+"Blickrichtung auswählen)."
+
+#: admin/class-svt-simple-admin.php:194
+#, fuzzy
+#| msgid ""
+#| "Choose the available options: overlay or interactive panorama and "
+#| "autorotation"
+msgid ""
+"Choose the available options: *Static Image* or *SVT Street View Panorama*, "
+"width, height and autorotation on/off"
+msgstr ""
+"Wähl eine der beiden Optionen: ein statisches Bild mit einer Lightbox oder "
+"ein interaktives Panorama mit Autorotation"
+
+#: admin/class-svt-simple-admin.php:196
+msgid "Click the *Generate Shortcode* button"
+msgstr "Klick auf den *Shortcode generieren* Button"
+
+#: admin/class-svt-simple-admin.php:200
+msgid "Enter the address"
+msgstr "Gibt eine Adresse ein"
+
+#: admin/class-svt-simple-admin.php:200
+msgid "Name / Location"
+msgstr "Name / Adresse"
+
+#: admin/class-svt-simple-admin.php:200
+msgid "Search"
+msgstr "Suchen"
+
+#: admin/class-svt-simple-admin.php:204
+msgid "Options"
+msgstr "Optionen"
+
+#: admin/class-svt-simple-admin.php:208 admin/class-svt-simple-admin.php:212
+msgid "SVT Street View Panorama"
+msgstr ""
+
+#: admin/class-svt-simple-admin.php:209
+msgid "Static Image with Lightbox"
+msgstr "Statisches Bild mit Lightbox"
+
+#: admin/class-svt-simple-admin.php:216
+msgid "Width"
+msgstr "Breite"
+
+#: admin/class-svt-simple-admin.php:217
+msgid "Height"
+msgstr "Höhe"
+
+#: admin/class-svt-simple-admin.php:221
+msgid "Width Thumbnail"
+msgstr "Breite Vorschau"
+
+#: admin/class-svt-simple-admin.php:222
+msgid "Height Thumbnail"
+msgstr "Höhe Vorschau"
+
+#: admin/class-svt-simple-admin.php:226
+msgid "Autorotate the panorama"
+msgstr "Automatisches Drehen des Panoramas"
+
+#: admin/class-svt-simple-admin.php:226
+msgid "Spin"
+msgstr "Drehung"
+
+#: admin/class-svt-simple-admin.php:229
+msgid "Generate Shortcode"
+msgstr "Shortcode generieren"
+
+#: admin/class-svt-simple-admin.php:284
+msgid "The address search ran into an error: "
+msgstr "Die Adresssuche hat einen Fehler geliefert: "
+
+#: admin/class-svt-simple-admin.php:341
+msgid "Please use the yellow pegman to select a Streetview panorama!"
+msgstr "Bitte den kleinen, gelben Pegman nutzen um ein Panorama auszuwählen!"
+
+#: admin/partials/svt-simple-admin-display.php:23
+msgid "No or invalid API key or daily query limit reached!"
+msgstr "Kein oder ungültiger API Key oder das Tageslimit wurde erreicht!"
+
+#: admin/partials/svt-simple-admin-display.php:41
+msgid " Settings"
+msgstr " Einstellungen"
+
+#: admin/partials/svt-simple-admin-display.php:59
+msgid ""
+"You need a valid API key from Google to use the Google panoramas on your site"
+msgstr ""
+"Du brauchst einen gültigen API Key von Google um die Panoramen auf Deiner "
+"Site darzustellen"
+
+#: admin/partials/svt-simple-admin-display.php:59
+msgid "Get an API key"
+msgstr "Hol Dir einen API Key"
+
+#: admin/partials/svt-simple-admin-display.php:60
+msgid ""
+"You have to enable the Maps JavaScript API, the Geocoding API and the Street "
+"View API in your"
+msgstr ""
+"Du musst die Maps JavaScript API, die Geocoding API und die Street View API "
+"bei Google aktivieren"
+
+#: admin/partials/svt-simple-admin-display.php:60
+msgid "Google API Library"
+msgstr "Google API Bibliothek"
+
+#: admin/partials/svt-simple-admin-display.php:61
+msgid ""
+"If you like you can support my efforts and the development of the plugin by "
+"donating with "
+msgstr ""
+"Wenn Du möchtest, kannst Du meine Bemühungen und die Entwicklung des PlugIns "
+"mit einer Spende unterstützen: "
+
+#: admin/partials/svt-simple-admin-display.php:61
+msgid "PayPal"
+msgstr ""
+
+#: admin/partials/svt-simple-admin-display.php:67
+msgid "Your Google Maps JS API Key."
+msgstr "Dein Google Maps API Key."
+
+#: admin/partials/svt-simple-admin-display.php:69
+msgid "Your Google Maps JS API Key"
+msgstr "Dein Google Maps API Key"
+
+#: admin/partials/svt-simple-admin-display.php:71
+msgid "API Key seems to be OK"
+msgstr "Der API Key scheint OK zu sein"
+
+#: admin/partials/svt-simple-admin-display.php:79
+#: admin/partials/svt-simple-admin-display.php:83
+msgid "Enable static preview images"
+msgstr "Statische Vorschaubilder aktivieren"
+
+#: admin/partials/svt-simple-admin-display.php:86
+msgid ""
+"If this option is on, you can insert static images of your panos into the "
+"posts and pages"
+msgstr ""
+"Wenn diese Option aktiv ist, kannst Du statische Vorschaubilder der Panos "
+"einsetzen"
+
+#: admin/partials/svt-simple-admin-display.php:87
+msgid ""
+"Each image opens a lightbox layer with the interactive panorama if clicked"
+msgstr ""
+"Jedes Vorschaubild öffnet das eigentliche Pano nach einem Klick in einer "
+"Lightbox"
+
+#: admin/partials/svt-simple-admin-display.php:88
+msgid ""
+"Therefore we have to load additional JS files. So use this option only if "
+"needed"
+msgstr ""
+"Für diese Funktionalität müssen zusätzliche Javascript und CSS Dateien "
+"geladen werden. Daher nur einschalten, wenn Du die Option benutzt"
+
+#: admin/partials/svt-simple-admin-display.php:89
+msgid ""
+"Static Street View images can be returned in any size up to 640 x 640 pixels"
+msgstr ""
+"Google liefert die statischen Street View Bilder in der maximalen Größe von "
+"640x640px"
+
+#: admin/partials/svt-simple-admin-display.php:90
+msgid ""
+"Google Maps APIs Premium Plan customers can request images up to 2048 x 2048 "
+"pixels"
+msgstr ""
+"Mit dem Google Maps APIs Premium Plan liefert Google maximal 2048x2048px "
+"große Bilder"
+
+#: admin/partials/svt-simple-admin-display.php:97
+#: admin/partials/svt-simple-admin-display.php:101
+msgid "Load Maps API only when needed"
+msgstr "Google Maps API nur bei Bedarf laden"
+
+#: admin/partials/svt-simple-admin-display.php:104
+msgid ""
+"Whenever you change any of the options on this page and you use a caching "
+"plugin: clear the cache"
+msgstr ""
+"Wenn Du eine Option auf dieser Seite veränderst und Du nutzt ein Caching "
+"PlugIn: leere den Cache"
+
+#: admin/partials/svt-simple-admin-display.php:105
+msgid ""
+"Some themes will not support the dynamic load of the Google Maps API only on "
+"those posts where you used the shortcode"
+msgstr ""
+"Einige Themes und PlugIns unterstützen nicht das dynamische Laden der Google "
+"Maps API nach Bedarf"
+
+#: admin/partials/svt-simple-admin-display.php:105
+#: admin/partials/svt-simple-admin-display.php:120
+msgid "If the panos do not show up, uncheck this option"
+msgstr ""
+"Wenn die Panos nicht dargestellt werden, entferne bitte die folgende Option"
+
+#: admin/partials/svt-simple-admin-display.php:112
+#: admin/partials/svt-simple-admin-display.php:116
+msgid "Load Javascript asynchronous"
+msgstr "Javascript asynchron laden"
+
+#: admin/partials/svt-simple-admin-display.php:119
+msgid ""
+"You can load parts of the needed scrips asynchronous. This may bring "
+"problems with the panos so use it with caution"
+msgstr ""
+"Du kannst die benötigten Javascript Teile asynchron laden. Das kann zu "
+"Darstellungsproblemen führen. Im Zweifel diese Option ausschalten"
+
+#: admin/partials/svt-simple-admin-display.php:127
+msgid "Switch on Logfile"
+msgstr "Log einschalten"
+
+#: admin/partials/svt-simple-admin-display.php:131
+msgid "Switch on the Logfile"
+msgstr "Das Log einschalten"
+
+#: admin/partials/svt-simple-admin-display.php:134
+msgid "If you run into problems a logfile may be helpful"
+msgstr "Wenn Du Probleme mit dem Plugin hast, kann ein Logfile hilfreich sein"
+
+#: admin/partials/svt-simple-admin-display.php:134
+msgid "You will find the log in /wp-content/uploads/svtsimple-logs/"
+msgstr "Du findest das Log unter /wp-content/uploads/svtsimple-logs/"
+
+#: admin/partials/svt-simple-admin-display.php:136
+msgid "Save all changes"
+msgstr "Änderungen sichern"
+
+#: admin/partials/svt-simple-admin-display.php:140
+msgid ""
+"Google will give you some free traffic to use the maps API. Calcuate the "
+"costs with this"
+msgstr ""
+"Google erlaubt einige kostenlose Zugriffe auf die Maps API. Die genauen "
+"Kosten kannst Du hier berechnen"
+
+#: admin/partials/svt-simple-admin-display.php:141
+msgid "Google Pricing Calculator"
+msgstr "Google Preis Kalkulator"
+
+#: admin/partials/svt-simple-admin-display.php:142
+msgid "More information about the pricing structure by Google can be found"
+msgstr "Weitere Informationen über die Preisstruktur bei Google findest Du"
+
+#: admin/partials/svt-simple-admin-display.php:142
+msgid "here"
+msgstr "hier"
+
+#: admin/partials/svt-simple-admin-display.php:144
+msgid "SVT Simple brought to you by"
+msgstr "SVT Simpel wurde konzipiert und gebaut von"
+
+#. Plugin Name of the plugin/theme
+msgid "SVT-Simple"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.business-fotos-koeln.de/svt-simple"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The perfect PlugIn to display Google Street View Panos in Wordpress."
+msgstr ""
+"Das perfekte PlugIn um Google Street View Panoramen in Wordpress "
+"darzustellen."
+
+#. Author of the plugin/theme
+msgid "Detlef Beyer / business-fotos-koeln.de"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.business-fotos-koeln.de/detlef"
+msgstr ""
+
+#~ msgid "Select the panorama and orientation of your tour you like to see"
+#~ msgstr ""
+#~ "Wähl aus der gewählten Tour ein Panorama und die Blickrichtung dieses "
+#~ "Panos (einfach im Pano drehen und bewegen)"
+
+#~ msgid " Options"
+#~ msgstr "Optionen"
+
+#, fuzzy
+#~| msgid " Options"
+#~ msgid "Embed Options"
+#~ msgstr "Optionen"
